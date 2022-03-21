@@ -10,4 +10,4 @@
 . Crear un nuevo proyecto en local
 => ng new nombre-proyecto
 
-. Crear proyecto con [stackblitz](https://www.flaticon.es/icono-premium/cuota_4505704)(https://stackblitz.com)
+. Crear proyecto con [stackblitz](https://stackblitz.com)
