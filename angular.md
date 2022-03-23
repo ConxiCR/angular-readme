@@ -10,4 +10,4 @@
 . Crear un nuevo proyecto en local
 => ng new nombre-proyecto
 
-. Crear proyecto con [stackblitz](https://stackblitz.com)<i class="fi fi-rs-upload"></i>
+. Crear proyecto online con [stackblitz](https://stackblitz.com)<i class="fi fi-rs-upload"></i>
