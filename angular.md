@@ -6,6 +6,8 @@
 
 . Instalar Angular(sino esta instalada) `npm install -g @angular/cli`
 
+. Angular versión `ng version`
+
 . Actualizar versión(si esta instalada)
 1. Desistalar - `npm uninstall -g @angular/cli`
 2. Limpiar cache - `npm cache clean --force`
