@@ -1,5 +1,6 @@
 # Angular readme.md
 . [Instalar node](https://nodejs.org)
+
 .comprobar versiones `node -v` // `npm -v`  
 
 . Comprobar versión - `ng --version`
